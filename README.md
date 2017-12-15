@@ -26,53 +26,63 @@ I have to be in TLV by 5pm on Fridays
 
 ### How long a hike would you join?"
 
-   Any length  10 - 31.3 %
-   1-2 hours   11 - 34.4 %
-   3-5-hours   10 - 59.4 %
-   Full day    12 - 37.5 %
-   2 days       4 - 12.5 %
+```
+Any length  10 - 31.3 %
+1-2 hours   11 - 34.4 %
+3-5-hours   10 - 59.4 %
+Full day    12 - 37.5 %
+2 days       4 - 12.5 %
 
-   Overnight for Holidays
+Overnight for Holidays
+```
 
 ### Where would you like to hike?
 
-   Anywhere            24 - 75.0 %
-   Jerusalem Area       7 - 21.9 %
-   Negev                8 - 25.0 %
-   Haifa / Mt Carmel    7 - 21.9 %
-   Galil                9 - 28.1 %
-   Ramat Ha Golan       8 - 25.0 %
+```
+Anywhere            24 - 75.0 %
+Jerusalem Area       7 - 21.9 %
+Negev                8 - 25.0 %
+Haifa / Mt Carmel    7 - 21.9 %
+Galil                9 - 28.1 %
+Ramat Ha Golan       8 - 25.0 %
 
-   Dead Sea area
+Dead Sea area
+```
 
 ### Where do you live?
 
-  Jerusalem Area     8 - 25.0 %
-  Gush Dan          11 - 34.4 %
-  Haifa area         5 - 15.6 %
-  
-  Tel Aviv           3
-  Modiin             1
-  Sharon             1
-  U.K.               1
+```
+Jerusalem Area     8 - 25.0 %
+Gush Dan          11 - 34.4 %
+Haifa area         5 - 15.6 %
+
+Tel Aviv           3
+Modiin             1
+Sharon             1
+U.K.               1
+```
 
 
 ### Transportation
 
-   I have my own car/bike/...                             9 - 28.1 %
-   I need a ride getting to the trail andback home       13 - 40.6 %
-   I have my own car and I might be able to offer seats   8 - 25.0 %
+```
+I have my own car/bike/...                             9 - 28.1 %
+I need a ride getting to the trail andback home       13 - 40.6 %
+I have my own car and I might be able to offer seats   8 - 25.0 %
 
 
-   I do not have a car and always appreciate a ride, but can take public transportation if the hiking area is easily accessible that way (except of course on Shabbat, when public transit is not available.
-   I may have a rented car or may needa lift
+I do not have a car and always appreciate a ride, but can take public transportation if the hiking area is easily accessible that way (except of course on Shabbat, when public transit is not available.
+I may have a rented car or may needa lift
+```
 
 ### Free comments
 
-   I would like to do part of the Israel trail if anyone is interested.
+```
+I would like to do part of the Israel trail if anyone is interested.
 
-   I have a phobia of dogs. Is there an option to have hikes that are for humans only?
-   I would love to bring my dog :)
+I have a phobia of dogs. Is there an option to have hikes that are for humans only?
+I would love to bring my dog :)
+```
 
 
 ## Skeleton announcement
