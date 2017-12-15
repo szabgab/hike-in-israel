@@ -29,7 +29,7 @@ I have to be in TLV by 5pm on Fridays
 ```
 Any length  10 - 31.3 %
 1-2 hours   11 - 34.4 %
-3-5-hours   10 - 59.4 %
+3-5-hours   19 - 59.4 %
 Full day    12 - 37.5 %
 2 days       4 - 12.5 %
 
