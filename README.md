@@ -11,16 +11,18 @@ A total of 32 responses
 
 ### When would you like to hike?
 
-   Saturday                                   22  - 68.8 %
-   Friday morning (get home before Shabbat)   15  - 46.9 %
-   Friday incl                                14  - 43.8 %
-   Any day                                     7  - 21.9 %
-   Weekday (Sunday-Thursday)                   4  - 12.5 %
+```
+Saturday                                   22  - 68.8 %
+Friday morning (get home before Shabbat)   15  - 46.9 %
+Friday incl                                14  - 43.8 %
+Any day                                     7  - 21.9 %
+Weekday (Sunday-Thursday)                   4  - 12.5 %
 
-   Friday prefer after 13:00 so I can bring my kid. Weekdays for a good trip with advance notice its possible to take a day off.
-   If I'm on vacation then also weekdays.
-   Friday afternoon is also good, if a ride back to Jerusalem is available.
-   I have to be in TLV by 5pm on Fridays
+Friday prefer after 13:00 so I can bring my kid. Weekdays for a good trip with advance notice its possible to take a day off.
+If I'm on vacation then also weekdays.
+Friday afternoon is also good, if a ride back to Jerusalem is available.
+I have to be in TLV by 5pm on Fridays
+```
 
 ### How long a hike would you join?"
 
