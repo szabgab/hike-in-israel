@@ -3,6 +3,41 @@
 * [Meetup group](https://www.meetup.com/Israel-Hiking-outdoor-fans/)
 * [Israeli Hiking map](https://israelhiking.osm.org.il/) for planning routes
 * [Wikiloc](https://www.wikiloc.com/) to find hikes done by others
+* [National Park Services](http://www.parks.org.il/) Mostly in Hebrew
+* [Attractions in Israel](http://www.attractions-in-israel.com/)
+
+## Hiking groups on Facebook
+* [Israel Hikes](https://www.facebook.com/groups/1636742616551780/)  OK to post
+* [Hiking in Israel](https://www.facebook.com/groups/HikingInIsrael/) asked
+* [Israel Hiking and Biking Maps](https://www.facebook.com/groups/994960670559126/)
+* [Backpacking, Hiking,& Adventure in Israel](https://www.facebook.com/groups/backpackingisrael/)
+
+
+
+# Hiking ideas
+
+* [Wadi Quelt](https://en.wikipedia.org/wiki/Wadi_Qelt)
+* http://www.attractions-in-israel.com/negev/negev-hikes/ein-avdat-national-park-%E2%80%93-hike-at-en-avdat-in-the-negev/
+
+* Burrial place of Ben Gurion  http://www.parks.org.il/ParksAndReserves/benGorion/Pages/default.aspx
+
+* hike one:  https://israelhiking.osm.org.il/#!/?s=MGgkgR4n49
+  https://israelhiking.osm.org.il/#!/?s=6J7VeFXoCP
+  https://israelhiking.osm.org.il/#!/?s=AONwv7iQEL
+
+
+* https://en.wikipedia.org/wiki/Ein_Avdat
+
+Ein Gedi long tour
+https://www.wikiloc.com/hiking-trails/hr-yshy-nkhl-dvd-lyvn-mlh-htsyts-nkhl-dvd-tkhtvn-3653790
+
+
+Lower Nahal Zeelim
+https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-21014675
+https://israelhiking.osm.org.il/#!/?s=KYRPIH6O44
+
+
+
 
 
 ## Survey results 2017.12
@@ -99,7 +134,9 @@ What to bring:
 * hiking sticks can be useful
 * 2-3 liter of water
 * light snack
-* Sun protection
+* enough food for the day
+* hat
+* Sun protection cream
 
 
 
