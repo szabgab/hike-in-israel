@@ -1,12 +1,13 @@
 # Hike in Israel
 
+* [Our Meetup group](https://www.meetup.com/Israel-Hiking-outdoor-fans/)
 
 * [Hiking ideas](hiking-ideas)
 * [Survey](survey-2017-12)
 * [Announcement Skeleton](announcement-skeleton)
 
+## Useful links
 
-* [Meetup group](https://www.meetup.com/Israel-Hiking-outdoor-fans/)
 * [Israeli Hiking map](https://israelhiking.osm.org.il/) for planning routes
 * [Wikiloc](https://www.wikiloc.com/) to find hikes done by others
 * [National Park Services](http://www.parks.org.il/) Mostly in Hebrew
