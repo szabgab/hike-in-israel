@@ -5,6 +5,7 @@
 * [Hiking ideas](hiking-ideas)
 * [Survey](survey-2017-12)
 * [Announcement Skeleton](announcement-skeleton)
+* [Israel National Trail](isarel-national-trail)
 
 ## Useful links
 
