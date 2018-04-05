@@ -12,9 +12,15 @@ What to bring:
 * hiking sticks can be useful
 * 2-3 liter of water
 * light snack
+* fruits
+* energy bar / raisin / etc.
 * enough food for the day
 * hat
-* Sun protection cream
+* sun glasses
+* sun protection cream
+
+* flash light - to be on the safe side
+* binoculars
 
 
 

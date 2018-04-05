@@ -9,10 +9,11 @@
 
 ## Useful links
 
-* [Israeli Hiking map](https://israelhiking.osm.org.il/) for planning routes
-* [Wikiloc](https://www.wikiloc.com/) to find hikes done by others
-* [National Park Services](http://www.parks.org.il/) Mostly in Hebrew
-* [Attractions in Israel](http://www.attractions-in-israel.com/)
+* [Israeli Hiking map](https://israelhiking.osm.org.il/) for planning routes.
+* [Wikiloc](https://www.wikiloc.com/) to find hikes done by others.
+* [National Park Services](http://www.parks.org.il/) Mostly in Hebrew.
+* [Attractions in Israel](http://www.attractions-in-israel.com/).
+* [Bikemap](https://www.bikemap.net/) in case you prefer to find bike-routes done by others.
 
 ## Hiking groups on Facebook
 
@@ -20,4 +21,11 @@
 * [Hiking in Israel](https://www.facebook.com/groups/HikingInIsrael/) asked
 * [Israel Hiking and Biking Maps](https://www.facebook.com/groups/994960670559126/)
 * [Backpacking, Hiking,& Adventure in Israel](https://www.facebook.com/groups/backpackingisrael/)
+
+## Water tempreature
+
+* [Average water tempreature](https://www.israelweather.co.il/page3.asp?topic_id=76&topic2_id=73&page_id=62)
+* [Up to date water tempreature](https://www.israelweather.co.il/forecast/sea.html)
+
+
 
