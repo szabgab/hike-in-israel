@@ -5,7 +5,7 @@
 * [Hiking ideas](hiking-ideas)
 * [Survey](survey-2017-12)
 * [Announcement Skeleton](announcement-skeleton)
-* [Israel National Trail](isarel-national-trail)
+* [Israel National Trail](israel-national-trail)
 
 ## Useful links
 
@@ -28,4 +28,6 @@
 * [Up to date water tempreature](https://www.israelweather.co.il/forecast/sea.html)
 
 
+## Source
 
+The source of this page is in [GitHub](https://github.com/szabgab/hike-in-israel)
