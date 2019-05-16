@@ -14,6 +14,10 @@
 * [National Park Services](http://www.parks.org.il/) Mostly in Hebrew.
 * [Attractions in Israel](http://www.attractions-in-israel.com/).
 * [Bikemap](https://www.bikemap.net/) in case you prefer to find bike-routes done by others.
+* [Negev trails](https://www.negevtrails.com/)
+* [Hike Israel](https://hike-israel.com/)
+
+* [Negev Trek](https://www.negevtrek.com/)
 
 ## Hiking groups on Facebook
 
