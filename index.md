@@ -19,6 +19,9 @@
 
 * [Negev Trek](https://www.negevtrek.com/)
 
+* [Hikes in the north](https://www.teva.org.il/?pg=SearchTrips&CategoryID=1686&SubRegionID=9&TripTypeID=&DifficultyID=&FreeTripSearch=&IsPayment=0&IsRecomended=1)
+* [Teva - Nature](https://www.teva.org.il/)
+
 ## Hiking groups on Facebook
 
 * [Israel Hikes](https://www.facebook.com/groups/1636742616551780/)  OK to post
