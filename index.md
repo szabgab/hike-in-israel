@@ -34,7 +34,20 @@
 * [Average water tempreature](https://www.israelweather.co.il/page3.asp?topic_id=76&topic2_id=73&page_id=62)
 * [Up to date water tempreature](https://www.israelweather.co.il/forecast/sea.html)
 
+## Other
+
+* [10 of the most spectacular desert hikes in Israel](https://www.israel21c.org/10-of-the-most-spectacular-desert-hikes-in-israel/)
+* Nahal Peres 
+* Ein Avdat round trip?
+* [Best desert trails in Israel- Hiking with NegevTrek](https://www.negevtrek.com/?tours_post=ein-akev-loop)
+* [5 things to know about hiking Ramon crater in Israel](https://thesanetravel.com/travels/israel/hiking-ramon-crater-israel)
+* [Ein Akev Loop](https://www.negevtrails.com/ein-akev-loop)
+* [Sodoma plan](https://israelhiking.osm.org.il/share/NDAOFu1yUG)
+* [Ein Avdat plan](https://israelhiking.osm.org.il/share/HOLof5ap2K)
+
 
 ## Source
 
 The source of this page is in [GitHub](https://github.com/szabgab/hike-in-israel)
+
+
