@@ -36,8 +36,10 @@
 
 ## Other
 
+* [Hiking and backpacking in Israel (WikiVoyage)](https://en.wikivoyage.org/wiki/Hiking_and_backpacking_in_Israel)
+
 * [10 of the most spectacular desert hikes in Israel](https://www.israel21c.org/10-of-the-most-spectacular-desert-hikes-in-israel/)
-* Nahal Peres 
+* Nahal Peres
 * Ein Avdat round trip?
 * [Best desert trails in Israel- Hiking with NegevTrek](https://www.negevtrek.com/?tours_post=ein-akev-loop)
 * [5 things to know about hiking Ramon crater in Israel](https://thesanetravel.com/travels/israel/hiking-ramon-crater-israel)
