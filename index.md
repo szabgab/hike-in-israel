@@ -7,6 +7,10 @@
 * [Announcement Skeleton](announcement-skeleton)
 * [Israel National Trail](israel-national-trail)
 
+## Biking
+
+* [Israel Bike Trail](https://ibt.org.il/en/)
+
 ## Useful links
 
 * [Israeli Hiking map](https://israelhiking.osm.org.il/) for planning routes.

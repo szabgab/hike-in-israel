@@ -1,16 +1,26 @@
 # Hiking ideas
 
 * [Wadi Quelt](https://en.wikipedia.org/wiki/Wadi_Qelt)
-* [en avdat](http://www.attractions-in-israel.com/negev/negev-hikes/ein-avdat-national-park-%E2%80%93-hike-at-en-avdat-in-the-negev/)
 
+* [Ein Avdat](http://www.attractions-in-israel.com/negev/negev-hikes/ein-avdat-national-park-%E2%80%93-hike-at-en-avdat-in-the-negev/)
+* [Ein Avdat](https://en.wikipedia.org/wiki/Ein_Avdat)
 * [Burrial place of Ben Gurion](http://www.parks.org.il/ParksAndReserves/benGorion/Pages/default.aspx)
 
-* [hike one](https://israelhiking.osm.org.il/#!/?s=MGgkgR4n49)
-* [x](https://israelhiking.osm.org.il/#!/?s=6J7VeFXoCP)
-* [y](https://israelhiking.osm.org.il/#!/?s=AONwv7iQEL)
+## Ein Bokek
 
+* [Ein Bokek](https://www.wikiloc.com/walking-trails/en-boqeq-ein-boqeq-ein-bokek-dead-sea-israel-66695369)
+On this occassion I could not find the way down so I had to return. I can go back and try to walk the longer route
+(after ascending on the red line go on the green even when it starts to go inland and then switch to the blue
+and another red and then back on the yellow/black and then return on the road on the seaside. It is almost 22 km.
+If someone can pick me up on road 90 it can be shorter ~ 16km, If going to Neve Zohar (and then by car) then
+it is only 13 km.
 
-* [Ein Avdat](https://en.wikipedia.org/wiki/Ein_Avdat)
+## Metzukei Dragot
+
+* [Nahal Dragot (hebrew)](https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%93%D7%A8%D7%92%D7%94) [English](https://en.wikipedia.org/wiki/Wadi_Murabba%27at)
+* There is place to sleep in the village. 
+
+## Ein Gedi
 
 ## Ein Gedi long tour
 
@@ -19,17 +29,16 @@
 
 ## Lower Nahal Zeelim
 
-* [Lower Nahal Zeelim](https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-21014675)
-* [z](https://israelhiking.osm.org.il/#!/?s=KYRPIH6O44)
+* [Lower Nahal Zeelim](https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-21014675) (Ilia Lotosh)
+* [Lower Nahal Zeelim](https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-near-the-dead-sea-israel-21779815) (Gabor)
 
 
 ## Kviz stream in the north
 
-* [z](https://www.wikiloc.com/hiking-trails/montfort-castle-kziv-stream-3437989)
-* [z](https://israelhiking.osm.org.il/#!/?s=lE45NCIO9S)
-* [z](https://en.wikipedia.org/wiki/Nahal_Kziv)
-* [z](http://www.parks.org.il/ParksAndReserves/hula/Pages/%D7%98%D7%99%D7%95%D7%9C-%D7%91%D7%A6%D7%A4%D7%95%D7%9F-%D7%94%D7%90%D7%A8%D7%A5.aspx)
+* [Montfort Castle & Kziv stream](https://www.wikiloc.com/hiking-trails/montfort-castle-kziv-stream-3437989) (Michael Shrayman)
+* [Nahal Kziv](https://en.wikipedia.org/wiki/Nahal_Kziv)
 
 
-* [x](https://israelhiking.osm.org.il/share/m2Xgca4xBk)
-* [x](https://israelhiking.osm.org.il/share/MHi9o09qpK)
+## Center
+
+* [planned route](https://israelhiking.osm.org.il/share/m2Xgca4xBk)
