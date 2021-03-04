@@ -6,7 +6,7 @@
 * [Ein Avdat](https://en.wikipedia.org/wiki/Ein_Avdat)
 * [Burrial place of Ben Gurion](http://www.parks.org.il/ParksAndReserves/benGorion/Pages/default.aspx)
 
-## Ein Bokek
+## Ein Bokek (Dead Sea)
 
 * [Ein Bokek](https://www.wikiloc.com/walking-trails/en-boqeq-ein-boqeq-ein-bokek-dead-sea-israel-66695369)
 On this occassion I could not find the way down so I had to return. I can go back and try to walk the longer route
@@ -15,21 +15,22 @@ and another red and then back on the yellow/black and then return on the road on
 If someone can pick me up on road 90 it can be shorter ~ 16km, If going to Neve Zohar (and then by car) then
 it is only 13 km.
 
-## Metzukei Dragot
+## Metzukei Dragot (Dead Sea)
 
 * [Nahal Dragot (hebrew)](https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%93%D7%A8%D7%92%D7%94) [English](https://en.wikipedia.org/wiki/Wadi_Murabba%27at)
-* There is place to sleep in the village. 
+* There is place to sleep in the village.
 
-## Ein Gedi
+## Ein Gedi (Dead Sea)
 
-## Ein Gedi long tour
+* [Ein Gedi - Nachal David - short tour](https://www.wikiloc.com/hiking-trails/ein-gedi-waadi-nachal-david-israel-16721100) (Gabor)
+* [Ein Gedi - Nachal David - long tour](https://www.wikiloc.com/hiking-trails/hr-yshy-nkhl-dvd-lyvn-mlh-htsyts-nkhl-dvd-tkhtvn-3653790) (Ilan Beer)
+* There is a semi-long one of 5-6 km and the long one which is 12-13 km long.
 
-* [Ein Gedi long tour](https://www.wikiloc.com/hiking-trails/hr-yshy-nkhl-dvd-lyvn-mlh-htsyts-nkhl-dvd-tkhtvn-3653790)
+* Nachal Arugot
 
 
-## Lower Nahal Zeelim
+## Lower Nahal Zeelim (Dead Sea)
 
-* [Lower Nahal Zeelim](https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-21014675) (Ilia Lotosh)
 * [Lower Nahal Zeelim](https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-near-the-dead-sea-israel-21779815) (Gabor)
 
 
@@ -38,6 +39,15 @@ it is only 13 km.
 * [Montfort Castle & Kziv stream](https://www.wikiloc.com/hiking-trails/montfort-castle-kziv-stream-3437989) (Michael Shrayman)
 * [Nahal Kziv](https://en.wikipedia.org/wiki/Nahal_Kziv)
 
+## Mt. Hermon - Neve Ativ
+
+* [ascending Mt. Hermon](https://www.wikiloc.com/hiking-trails/neve-ativ-36831990)
+The last part of the descend was nuts, we should have followed the route. So next time when I do this I'll have to that part more carefully.
+This was a super exhausting hike, but one that I enjoyed a lot.
+
+## South
+
+* [Nahal Pora - Horvat Pora - Tel Nagila](https://www.wikiloc.com/hiking-trails/nahal-pora-horvat-pora-tel-nagila-israel-23000580)
 
 ## Center
 
