@@ -1,10 +1,20 @@
 # Hiking ideas
 
-* [Wadi Quelt](https://en.wikipedia.org/wiki/Wadi_Qelt)
+## Mt. Hermon - Neve Ativ
 
-* [Ein Avdat](http://www.attractions-in-israel.com/negev/negev-hikes/ein-avdat-national-park-%E2%80%93-hike-at-en-avdat-in-the-negev/)
-* [Ein Avdat](https://en.wikipedia.org/wiki/Ein_Avdat)
-* [Burrial place of Ben Gurion](http://www.parks.org.il/ParksAndReserves/benGorion/Pages/default.aspx)
+* [ascending Mt. Hermon](https://www.wikiloc.com/hiking-trails/neve-ativ-36831990)
+The last part of the descend was nuts, we should have followed the route. So next time when I do this I'll have to that part more carefully.
+This was a super exhausting hike, but one that I enjoyed a lot.
+
+## Kviz stream in the north
+
+* [Montfort Castle & Kziv stream](https://www.wikiloc.com/hiking-trails/montfort-castle-kziv-stream-3437989) (Michael Shrayman)
+* [Nahal Kziv](https://en.wikipedia.org/wiki/Nahal_Kziv)
+
+
+## Center
+
+* [planned route](https://israelhiking.osm.org.il/share/m2Xgca4xBk)
 
 ## Ein Bokek (Dead Sea)
 
@@ -28,27 +38,21 @@ it is only 13 km.
 
 * Nachal Arugot
 
-
 ## Lower Nahal Zeelim (Dead Sea)
 
 * [Lower Nahal Zeelim](https://www.wikiloc.com/hiking-trails/lower-nahal-zeelim-near-the-dead-sea-israel-21779815) (Gabor)
 
 
-## Kviz stream in the north
-
-* [Montfort Castle & Kziv stream](https://www.wikiloc.com/hiking-trails/montfort-castle-kziv-stream-3437989) (Michael Shrayman)
-* [Nahal Kziv](https://en.wikipedia.org/wiki/Nahal_Kziv)
-
-## Mt. Hermon - Neve Ativ
-
-* [ascending Mt. Hermon](https://www.wikiloc.com/hiking-trails/neve-ativ-36831990)
-The last part of the descend was nuts, we should have followed the route. So next time when I do this I'll have to that part more carefully.
-This was a super exhausting hike, but one that I enjoyed a lot.
-
 ## South
 
 * [Nahal Pora - Horvat Pora - Tel Nagila](https://www.wikiloc.com/hiking-trails/nahal-pora-horvat-pora-tel-nagila-israel-23000580)
 
-## Center
+## Negev
 
-* [planned route](https://israelhiking.osm.org.il/share/m2Xgca4xBk)
+* [Wadi Quelt](https://en.wikipedia.org/wiki/Wadi_Qelt)
+* [Ein Avdat](http://www.attractions-in-israel.com/negev/negev-hikes/ein-avdat-national-park-%E2%80%93-hike-at-en-avdat-in-the-negev/)
+* [Ein Avdat](https://en.wikipedia.org/wiki/Ein_Avdat)
+* [Burrial place of Ben Gurion](http://www.parks.org.il/ParksAndReserves/benGorion/Pages/default.aspx)
+
+
+
