@@ -16,6 +16,11 @@ This was a super exhausting hike, but one that I enjoyed a lot.
 
 * [planned route](https://israelhiking.osm.org.il/share/m2Xgca4xBk)
 
+
+## Judea and Samaria
+
+* [Wadi Quelt](https://en.wikipedia.org/wiki/Wadi_Qelt)
+
 ## Ein Bokek (Dead Sea)
 
 * [Ein Bokek](https://www.wikiloc.com/walking-trails/en-boqeq-ein-boqeq-ein-bokek-dead-sea-israel-66695369)
@@ -49,7 +54,6 @@ it is only 13 km.
 
 ## Negev
 
-* [Wadi Quelt](https://en.wikipedia.org/wiki/Wadi_Qelt)
 * [Ein Avdat](http://www.attractions-in-israel.com/negev/negev-hikes/ein-avdat-national-park-%E2%80%93-hike-at-en-avdat-in-the-negev/)
 * [Ein Avdat](https://en.wikipedia.org/wiki/Ein_Avdat)
 * [Burrial place of Ben Gurion](http://www.parks.org.il/ParksAndReserves/benGorion/Pages/default.aspx)
