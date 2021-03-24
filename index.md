@@ -51,6 +51,10 @@
 * [Sodoma plan](https://israelhiking.osm.org.il/share/NDAOFu1yUG)
 * [Ein Avdat plan](https://israelhiking.osm.org.il/share/HOLof5ap2K)
 
+## Hungarian
+
+* [Barangló](http://barangolo.shalom-olim.com/)
+
 
 ## Source
 
